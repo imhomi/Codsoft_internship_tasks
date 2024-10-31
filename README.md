@@ -12,16 +12,15 @@ TASK 1- NUMBER GAME
  7. Display the user's score, which can be based on the number of attempts taken or rounds won.
     
 TASK 2- STUDENT GRADE CALCULATOR
- Input: Take marks obtained (out of 100) in each subject.
- Calculate Total Marks: Sum up the marks obtained in all subjects.
- Calculate Average Percentage: Divide the total marks by the total number of subjects to get the
+ 1. Input: Take marks obtained (out of 100) in each subject.
+ 2. Calculate Total Marks: Sum up the marks obtained in all subjects.
+ 3. Calculate Average Percentage: Divide the total marks by the total number of subjects to get the
  average percentage.
- Grade Calculation: Assign grades based on the average percentage achieved.
- Display Results: Show the total marks, average percentage, and the corresponding grade to the user
+ 4. Grade Calculation: Assign grades based on the average percentage achieved.
+ 5. Display Results: Show the total marks, average percentage, and the corresponding grade to the user
  
 TASK 3- ATM INTERFACE
- 1.
- Create a class to represent the ATM machine.
+ 1. Create a class to represent the ATM machine.
  2. Design the user interface for the ATM, including options such as withdrawing, depositing, and
  checking the balance.
  3. Implement methods for each option, such as withdraw(amount), deposit(amount), and
@@ -33,21 +32,21 @@ TASK 3- ATM INTERFACE
  7. Display appropriate messages to the user based on their chosen options and the success or failure
  of their transactions.
 TASK 4- QUIZ APPLICATION WITH TIMER
- Quiz Questions and Options: Store quiz questions along with multiple-choice options and correct
+ 1. Quiz Questions and Options: Store quiz questions along with multiple-choice options and correct
  answers.
- Timer: Implement a timer for each question to limit the time to answer.
- Question Display: Present one question at a time with multiple-choice options.
- Answer Submission: Allow users to select an option and submit their answer within the given
+ 2. Timer: Implement a timer for each question to limit the time to answer.
+ 3. Question Display: Present one question at a time with multiple-choice options.
+ 4. Answer Submission: Allow users to select an option and submit their answer within the given
  time.
- Score Calculation: Keep track of the user's score based on correct answers.
- Result Screen: Display the final score and a summary of correct/incorrect answers.
+ 5. Score Calculation: Keep track of the user's score based on correct answers.
+ 6. Result Screen: Display the final score and a summary of correct/incorrect answers.
  
 TASK 5- STUDENT COURSE REGISTRATION SYSTEM
- Course Database: Store course information, including course code, title,
+ 1. Course Database: Store course information, including course code, title,
  description, capacity, and schedule.
- Student Database: Store student information, including student ID, name, and
+ 2. Student Database: Store student information, including student ID, name, and
  registered courses.
- Course Listing: Display available courses with details and available slots.
- Student Registration: Allow students to register for courses from the available
+ 3. Course Listing: Display available courses with details and available slots.
+ 4. Student Registration: Allow students to register for courses from the available
  options.
- Course Removal: Enable students to drop courses they have registered for
+ 5. Course Removal: Enable students to drop courses they have registered for
